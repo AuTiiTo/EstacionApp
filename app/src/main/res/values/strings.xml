@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EstacionAppBA</string>
+    <string name="search">Search..</string>
+    <string name="empty_favorite">You can add or remove Favorites\nwith a single click\non your favorite park star</string>
+    <string name="activate_gps">You need to activate the GPS to get distance properly</string>
+    <string name="webpage_error">Error getting parkings\nTry again later</string>
+    <string name="getting_parkings">Getting parkings..</string>
+    <string name="price_hour">$%1$s/hs</string>
+    <string name="fav_direction">%1$s\n%2$s</string>
+    <string name="high_availability">High Availability</string>
+    <string name="medium_availability">Medium Availability</string>
+    <string name="low_availability">Low Availability</string>
+    <string name="no_availability">No availability</string>
+</resources>
