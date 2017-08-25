@@ -32,9 +32,7 @@ public class ParkingFragment extends Fragment implements ParkingMVP.ParkingView 
     private Presenter presenter;
     private ParkingAdapter parkingAdapter;
 
-    //Layout
     private RecyclerView rvParkingList;
-
 
     public ParkingFragment() {
         // Required empty public constructor

@@ -30,13 +30,12 @@ public class Presenter implements ParkingMVP.ParkingPresenter{
 
     @Override
     public void listParkingFromReader(Reader rawReader) {
-        List<Parking> parkingList = new ArrayList<>();
-        parkingList = Model.getParkingList(rawReader);
-        parkingsView.addParkingsToAdapter(parkingList);
+        parkingsView.addParkingsToAdapter(Model.getParkingList(rawReader));
     }
 
     @Override
     public void isActivityReady() {
+        parkingsView.addParkingsToAdapter(Model.getParkingsList());
         parkingsView.tryGetParkingsFromRaw();
     }
 

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "595875411658",
+    "firebase_url": "https://estacionapp-c5f93.firebaseio.com",
+    "project_id": "estacionapp-c5f93",
+    "storage_bucket": "estacionapp-c5f93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595875411658:android:c708835dd34b9e20",
+        "android_client_info": {
+          "package_name": "powerup.estacionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595875411658-rao0m64m9k35q07p64fhgq874d0pa1pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXMhOGGZHk4d7_JBmuIbYQg0Ba0fbRXp0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
